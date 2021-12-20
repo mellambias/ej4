@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    max-width: 60%;
+    margin: 20px auto;
+}
+
+tr {
+    background-color: bisque;
+}
